@@ -1,0 +1,16 @@
+.card-img-top {
+    border-radius: 50%;
+    width: 225px;
+    align-self: center;
+    margin-top: 30px;
+    margin-bottom: 15px;
+}
+
+body{
+    display: flex;
+    margin: 50px;
+}
+
+#contacto-tarjeta {
+    margin-right: 5%;
+}
