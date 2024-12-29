@@ -9,8 +9,26 @@
 body{
     display: flex;
     margin: 50px;
+    background-color: rgb(216, 221, 225);
 }
 
 #contacto-tarjeta {
-    margin-right: 5%;
+    margin-right: 6%;
+    background-color: rgb(34, 35, 64);
+    color: white;
+}
+
+#contacto-tarjeta-1{
+    background-color: rgb(34, 35, 64);
+    color: white;
+}
+
+#contacto-tarjeta-2 {
+    background-color: rgb(34, 35, 64);
+    color: white;
+}
+
+#contacto-tarjeta-3 {
+    background-color: rgb(34, 35, 64);
+    color: white;
 }
